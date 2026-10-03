@@ -1,0 +1,6 @@
+Name,Age,Department,Marks
+Omkar,21,AIML,85
+Rahul,22,CSE,78
+Amit,20,AIML,92
+Priya,21,CSE,88
+Sneha,22,AIML,95
